@@ -1,0 +1,11 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "node-express-gen/package.json",
+        "rest-server-passport/package.json",
+        "rest-server/package.json"
+      ]
+    }
+  }
+}
